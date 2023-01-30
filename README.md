@@ -1,2 +1,2 @@
 ## Hello world
-hey i am priyanshu!
+hey i am ayush!
